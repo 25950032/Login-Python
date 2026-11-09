@@ -58,7 +58,7 @@ python login.py
 
 ## 👩‍💻 Autora
 
-**Raquel Klepache**
+**Andrea Kohn**
 
 Proyecto desarrollado como práctica de programación en Python.
 
